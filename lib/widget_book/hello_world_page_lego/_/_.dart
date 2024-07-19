@@ -13,7 +13,7 @@ class _NewViewState extends State<NewView> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(child: Text("New View")),
+      body: Center(child: Text("Hello World! 👋")),
     );
   }
 }
